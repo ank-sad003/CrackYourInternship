@@ -29,5 +29,5 @@ class Solution {
                 matrix[i][s]=0;
             }
         }    
-    }
+ }
 }
